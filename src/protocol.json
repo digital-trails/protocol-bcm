@@ -1,35 +1,83 @@
 {
 	"home": {
 		"title": "BCM",
-
-		"banner_text": "Together we can.",
-		"banner_icon": {"url":"/assets/logo3.png","tint":false},
-
-		"button_tl": {
-			"text": "Meditation Basics",
-			"icon": {"url":"/assets/001-medicine.png", "tint":false},
-			"action": "https://hdsp.co/share/681b905c676f43eaa24fb490"
-		},
-		"button_tr": {
-			"text": "Sports | Recovery Course",
-			"icon": {"url":"/assets/020-person.png", "tint":false},
-			"action": "https://hdsp.co/share/681baa3bb7ef4f17b820ccf6"
-		},
-		"button_br": {
-			"text": "More About ACL Recovery",
-			"icon": {"url":"/assets/025-medicine.png", "tint":false},
-			"action": ""
-		},
-		"button_bl": {
-			"text": "Sports | Rehab Course",
-			"icon": {"url":"/assets/030-yoga.png", "tint":false},
-			"action": "https://hdsp.co/share/6839e11d7419d4b1882761d7"
-		}
-	},
-
-	"menu": [
-		{ "text": "Afternoon 1", "action": "flow://flows/survey1" },
-		{ "text": "Afternoon 2", "action": "flow://flows/survey2" },
-		{ "text": "Morning", "action": "flow://flows/survey3" }
-	]
-}
+    "element": { "type": "list", "elements": [
+      {
+        "type": "alert",
+        "title": "Mind in Motion",
+        "message": "Together we can.",
+      },
+      {
+          "type": "goals",
+          "goals": [
+            {
+              "service": "oura",
+              "type": "percentile",
+              "show-loading": true,
+              "field": "active",
+              "days": 10,
+              "percentile": .6
+            }
+          ]
+      },
+      {
+        "type": "carousel",
+        "actions": [
+          {
+            "text": "Meditation Basics",
+            "icon": {
+              "url": "/assets/001-medicine.png",
+              "tint": false
+            },
+            "action": "https://hdsp.co/share/681b905c676f43eaa24fb490",
+            "backgroundcolor": "#1A206AFF",
+            "markcompleted": true
+          },
+          {
+            "text": "Sports | Recovery Course",
+            "icon": {
+              "url": "/assets/020-person.png",
+              "tint": false
+            },
+            "action": "https://hdsp.co/share/681baa3bb7ef4f17b820ccf6",
+            "backgroundcolor": "#1A00E05A",
+            "markcompleted": true
+          },
+          {
+            "text": "Sports | Rehab Course",
+            "icon": {
+              "url": "/assets/030-yoga.png",
+              "tint": false
+            },
+            "action": "https://hdsp.co/share/6839e11d7419d4b1882761d7",
+            "backgroundcolor": "#1A00C2FF",
+            "markcompleted": true
+          }
+        ]
+      },
+      {
+        "type": "tiles",
+        "actions": [
+          {
+            "text": "More About ACL Recovery",
+            "icon": {
+              "url": "/assets/025-medicine.png",
+              "tint": false
+            },
+            "action": "",
+            "backgroundcolor": "#1A5C2FDA",
+            "markcompleted": true
+          },
+          {
+            "text": "Contact",
+            "icon": {
+              "url": "/assets/support.png",
+              "tint": false
+            },
+            "action": "navpage://Contact",
+            "backgroundcolor": "#1A00C2FF"
+          }
+        ]
+      }
+    ] }
+  }
