@@ -4,7 +4,7 @@
 		"element": { "type": "list", "elements": [
 		  {
 			"type": "alert",
-			"title": "",
+			"title": "Smart and Connected",
 			"message": "Together we can.",
 			"icon": {
           		"url": "/assets/daily-routine.png",
