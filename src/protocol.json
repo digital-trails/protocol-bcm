@@ -53,7 +53,7 @@
 				  "tint": false
 				},
 				"action": "navpage://Contact",
-				"backgroundcolor": "#1A00C2FF"
+				"backgroundcolor": "#1A00E05A"
 			  },
 			  {
 				"text": "Contact",
@@ -62,7 +62,7 @@
 				  "tint": false
 				},
 				"action": "navpage://Contact",
-				"backgroundcolor": "#1A00C2FF"
+				"backgroundcolor": "#1A206AFF"
 			  }
 			]
 		  }
