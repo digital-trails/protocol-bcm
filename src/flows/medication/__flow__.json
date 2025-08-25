@@ -4,6 +4,6 @@
     "text": "Make a selection below to learn more about your medication",
     "selections": {
         "Tamoxifen": "tamoxifen",
-        "Aromatase Inhibitors": "aromatase.json"
+        "Aromatase Inhibitors": "aromatase"
     }
 }

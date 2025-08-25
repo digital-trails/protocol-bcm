@@ -33,7 +33,7 @@
 				  "url": "/assets/medicine.png",
 				  "tint": false
 				},
-				"action": "",
+				"action": "flow://flows/medication",
 				"backgroundcolor": "#1A5C2FDA",
 				"markcompleted": true
 			  },
