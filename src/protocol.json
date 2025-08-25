@@ -58,7 +58,7 @@
 			  {
 				"text": "Finding Support",
 				"icon": {
-				  "url": "/assets/support.png",
+				  "url": "/assets/hands.png",
 				  "tint": false
 				},
 				"action": "navpage://Contact",
