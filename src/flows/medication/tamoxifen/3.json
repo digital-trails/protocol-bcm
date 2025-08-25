@@ -1,0 +1,13 @@
+{
+    "header_text": "About Tamoxifen",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/tamoxifen3.png"
+        },
+        {
+            "type": "Text",
+            "Text": "Because you have a type of cancer that grows when there are hormones in your body, your doctor is asking you to take a medicine called tamoxifen. Tamoxifen basically blocks the hormones in your body from feeding the cancer.  So, if cancer cells start to reappear again, the medicine will prevent them from growing. "
+        }
+    ]
+}

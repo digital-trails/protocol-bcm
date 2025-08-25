@@ -1,0 +1,13 @@
+{
+    "header_text": "About Tamoxifen",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/tamoxifen4.png"
+        },
+        {
+            "type": "Text",
+            "Text": "Many people worry about taking too many medicines. However, sometimes doctors prescribe medicines to people for very specific reasons. Your doctor has prescribed tamoxifen to you because they believe that it will help prevent your cancer from coming back.  In other words, taking this medicine every day can save your life."
+        }
+    ]
+}

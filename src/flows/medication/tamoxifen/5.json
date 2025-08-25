@@ -1,0 +1,22 @@
+{
+    "header_text": "About Tamoxifen",
+    "elements": [
+        {
+            "type": "Media",
+            "url": ""
+        },
+        {
+            "type": "Text",
+            "text": "Tamoxifen works best when you take it at the exact same time every day."
+        },
+        {
+            "type": "Text",
+            "text": "Do you want to learn some strategies for remembering to take your medicine?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": ["Yes","No"],
+            "column_count": 2
+        }
+    ]
+}

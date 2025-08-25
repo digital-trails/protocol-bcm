@@ -1,0 +1,9 @@
+{
+    "mode": "select",
+    "column_count": 2,
+    "text": "Make a selection below to learn more about your medication",
+    "selections": {
+        "Tamoxifen": "tamoxifen.json",
+        "Aromatase Inhibitors": "aromatase.json"
+    }
+}

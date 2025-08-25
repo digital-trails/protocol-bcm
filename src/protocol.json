@@ -20,7 +20,7 @@
 				  "show-loading": true,
 				  "field": "active",
 				  "days": 10,
-				  "percentile": .6
+				  "percentile": 0.6
 				}
 			  ]
 		  },
@@ -56,7 +56,7 @@
 				"backgroundcolor": "#1A00E05A"
 			  },
 			  {
-				"text": "Contact",
+				"text": "Finding Support",
 				"icon": {
 				  "url": "/assets/support.png",
 				  "tint": false
