@@ -51,7 +51,7 @@
 				  "url": "/assets/hands.png",
 				  "tint": false
 				},
-				"action": "navpage://Contact",
+				"action": "flow://flows/symptom",
 				"backgroundcolor": "#1A206AFF"
 			  }
 			]

@@ -1,0 +1,29 @@
+{
+    "header_text": "Social Support",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/flow_image_52.jpg"
+        },
+        {
+            "type": "Text",
+            "Text": "When you are having a lot of stress it is sometimes hard to remember who to contact to get help. Some people are only helpful in certain ways.  For example, you may have a friend who is good at providing information but not a good person to talk to about your emotions."
+        },
+        {
+            "type": "Text",
+            "Text": "We would like to help you create a Support Map that will be added to the app. In creating the Support Map, you can enter in information about people who can help you and provide their contact information.  You can also enter in what they can help you with."
+        },
+        {
+            "type": "Text",
+            "Text": "This information will be added to the Support Map in the menu section of the app.  That way, it will be easy for you to come up with people who can help you."
+        },
+        {
+            "type": "Text",
+            "Text": "Are you ready to enter the information?"
+        },
+        {
+            "type": "Text",
+            "Text": "Let’s get started!"
+        }
+    ]
+}

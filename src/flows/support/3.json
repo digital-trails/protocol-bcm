@@ -1,0 +1,13 @@
+{
+    "header_text": "Social Support",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/flow_image_50.jpg"
+        },
+        {
+            "type": "Text",
+            "Text": "Sometimes people help you complete a task, like grocery shopping.  Other times people in your life may help you when you need something.  For example, sometimes people may provide you with a meal, like dinner.  Others can help you with transportation to a medical appointment or taking care of your home."
+        }
+    ]
+}

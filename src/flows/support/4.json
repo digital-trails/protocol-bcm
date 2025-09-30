@@ -1,0 +1,13 @@
+{
+    "header_text": "Social Support",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/flow_image_51.jpg"
+        },
+        {
+            "type": "Text",
+            "Text": "Some people may help you by providing good information that you need. You likely know many people who know a lot of things!  You may get information about your medicines from a pharmacist or your doctor.  A friend could help you with figuring out a new place to go and exercise."
+        }
+    ]
+}
