@@ -15,7 +15,7 @@
         },
         {
             "type": "Buttons",
-            "buttons": ["Yes::flow://flows/adherance/routine","No"],
+            "buttons": ["flow://flows/adherance/routine::Yes","No"],
             "column_count": 2
         }
     ]
