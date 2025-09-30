@@ -1,0 +1,13 @@
+{
+    "header_text": "About Hot Flashes",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/flow_image_36.jpg"
+        },
+        {
+            "type": "Text",
+            "Text": "There are several different types of aromatase inhibitors. Sometimes switching from one aromatase inhibitor to another or switching from an aromatase inhibitor to tamoxifen can reduce hot flashes.  Talk to your doctor if you are interested in switching medicines due to hot flashes."
+        }
+    ]
+}

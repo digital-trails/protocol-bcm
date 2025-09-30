@@ -1,0 +1,13 @@
+{
+    "header_text": "About Hot Flashes",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/flow_image_33.jpg"
+        },
+        {
+            "type": "Text",
+            "Text": "Have you suddenly been feeling warm lately?  This experience may be a hot flash.  People who take aromatase inhibitors or tamoxifen often experience hot flashes because the medicines are designed to reduce the level and activity of hormones that may cause cancer to grow.  The symptoms of a hot flash include suddenly feeling warm and sweating. Sometimes people also feel anxiety."
+        }
+    ]
+}
