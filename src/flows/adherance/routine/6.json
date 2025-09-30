@@ -1,0 +1,23 @@
+{
+    "header_text": "About Routine",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Has taking your medicine at the same time that you do something else helped you remember your medicine?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Yes::yes",
+                "No::no"
+            ],
+            "selectable": true,
+            "variable_name": "RoutineSelection2"
+        }
+    ],
+        "condition": [
+        "RoutineSelection1",
+        "=",
+        "yes"
+    ]
+}

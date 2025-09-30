@@ -1,0 +1,22 @@
+{
+    "header_text": "About Routine",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/flow_image_10.png"
+        },
+        {
+            "type": "Text",
+            "Text": "Recently, we asked you to come up with a way to take your medicine when you are doing something else.  Have you started taking your medicine at the same time that you do something else?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Yes::yes",
+                "No::no"
+            ],
+            "selectable": true,
+            "variable_name": "RoutineSelection1"
+        }
+    ]
+}

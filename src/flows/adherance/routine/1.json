@@ -1,0 +1,13 @@
+{
+    "header_text": "About Routine",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/flow_image_7.png"
+        },
+        {
+            "type": "Text",
+            "Text": "Medicines like Tamoxifen and Aromatase Inhibitors work best when they are taken at the same time every day.  Taking your medicine at the same time every day can also make it easier to remember to take them."
+        }
+    ]
+}

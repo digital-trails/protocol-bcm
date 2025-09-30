@@ -1,0 +1,17 @@
+{
+    "header_text": "About Routine",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/flow_image_9.png"
+        },
+        {
+            "type": "Text",
+            "Text": "Let’s think of something that you do at the same time every day.  Go ahead and write down in your notebook one or more things that you do at the same time every day. In looking at your list, is there one thing that you do every day where it would be easy to take your medicine at the same time?  For example, you may want a glass of water to swallow your medicine, so eating or brushing your teeth are good choices.  Please circle the best option from the list in your notebook."
+        },
+         {
+            "type": "Text",
+            "Text": "Now think about when you plan to begin taking your medicine at the same time as something else. For example, when do you plan to start taking your medicine when you eat breakfast?  Please write that down too."
+        }
+    ]
+}

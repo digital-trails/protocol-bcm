@@ -1,0 +1,31 @@
+{
+    "header_text": "About Routine",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "It sounds like this type of routine might not work for you.  Please think about whether you want to keep trying this plan.  Or do you want to try to take it at a different time, when you are doing a different activity?"
+        },
+        {
+            "type": "Text",
+            "Text": "Have you put your medicine in a place where it is easy to see?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Yes::yes",
+                "No::no"
+            ],
+            "selectable": true,
+            "variable_name": "RoutineSelection3"
+        }
+    ],
+    "condition": [
+        "RoutineSelection1",
+        "=",
+        "no",
+        "||",
+        "RoutineSelection2",
+        "=",
+        "no"
+    ]
+}

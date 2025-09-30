@@ -1,0 +1,13 @@
+{
+    "header_text": "About Routine",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/flow_image_8.png"
+        },
+        {
+            "type": "Text",
+            "Text": "One way to remember to take your medicine at the same time every day is to take the medicine at the same time that you do something else.  Many people take their medicine at the same time that they eat a certain meal, brush their teeth, or exercise.  The best activity to pick is something that you tend to do at just about the same time every day and that you do not forget to do."
+        }
+    ]
+}

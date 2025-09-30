@@ -1,0 +1,14 @@
+{
+    "header_text": "About Routine",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "That is great to hear!  Over the next 2 weeks, keep taking your medicine at the same time as when you do something else."
+        }
+    ],
+    "condition": [
+        "RoutineSelection2",
+        "=",
+        "yes"
+    ]
+}
