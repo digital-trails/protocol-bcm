@@ -1,0 +1,14 @@
+{
+    "header_text": "About Travel",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/flow_image_18.png"
+        },
+        {
+            "type": "Text",
+            "html": true,
+            "Text": "Sometimes unexpected things can happen when you travel.  For example, you may be delayed or decide to extend your trip.  Or, you may lose a bag or your medicine.  Sometimes doctors or pharmacists in the place where you are traveling can help replace your medicine if you lose it or run out of it. However, they may need to contact your doctor or pharmacist at home.  It can be good to have a photo of your prescription or prescription bottle to show a doctor or pharmacist.  Also, be sure to take the contact information of all your health care providers, including your doctors and your pharmacist or pharmacy.  You can enter that information in this section of the app so that you will always have access to it:  <a href=\"https://docs.google.com/document/d/1foyCB4YTjPOT5sHbFzNN-fTJEOVWmXEDNDDSL3-xSgo/edit/\">https://docs.google.com/document/d/1foyCB4YTjPOT5sHbFzNN-fTJEOVWmXEDNDDSL3-xSgo/edit/</a>"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "header_text": "About Travel",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/flow_image_19.png"
+        },
+        {
+            "type": "Text",
+            "Text": "Getting ready to travel can be stressful!  Many people forget their medicines at home when they travel.  However, there are several ways to remember to take your medicine with you on the trip. One way is to put your medicine in a bag that you plan to take on the trip when you are packing.  If you usually take your medicine in the morning or afternoon and that is before your trip, be sure to set an alarm or leave yourself a note to remind yourself to take the medicine that is in your bag."
+        }
+    ]
+}

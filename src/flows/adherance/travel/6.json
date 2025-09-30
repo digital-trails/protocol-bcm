@@ -1,0 +1,13 @@
+{
+    "header_text": "About Travel",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/flow_image_21.png"
+        },
+        {
+            "type": "Text",
+            "Text": "When you are traveling for a long period of time or changing time zones, it may become confusing to remember when to take your medicine.  Aromatase inhibitors and tamoxifen work best when they are taken at the same time each day.  So, if you travel very far away, you may switch from taking the medicine in the morning to taking it at night.  When you have a very long trip, it is important to set an alarm on your phone or on another device to remind you when to take your medicine. It can also be helpful to ask a traveling companion to remind you."
+        }
+    ]
+}

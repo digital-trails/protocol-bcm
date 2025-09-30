@@ -1,0 +1,13 @@
+{
+    "header_text": "About Reminder",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/flow_image_11.png"
+        },
+        {
+            "type": "Text",
+            "Text": "In this module, we will discuss ways to remember to take your medicine.  We will be talking specifically about coming up with reminders to take your medicine."
+        }
+    ]
+}

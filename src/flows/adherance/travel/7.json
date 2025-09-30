@@ -1,0 +1,13 @@
+{
+    "header_text": "About Travel",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/flow_image_21.png"
+        },
+        {
+            "type": "Text",
+            "Text": "If you are moving from one place to another during your trip, it is important to make sure that you do not leave your medicine behind.  When you are packing to move from one place to another, be sure to put your medicine in a bag that will not get left behind, like a backpack or purse."
+        }
+    ]
+}

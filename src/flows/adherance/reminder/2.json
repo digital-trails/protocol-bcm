@@ -1,0 +1,33 @@
+{
+    "header_text": "About Reminder",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/flow_image_12.png"
+        },
+        {
+            "type": "Text",
+            "Text": "It can be very difficult for people to remember to take their anti-hormonal medicines, like Tamoxifen or an Aromatase Inhibitor. Everyone forgets to take their medicine at some point."
+        },
+        {
+            "type": "Text",
+            "Text": "A tool that can be helpful for remembering to take your medicine is to establish a way to remind yourself to take it."
+        },
+        {
+            "type": "Text",
+            "Text": "A reminder is something that triggers you to remember to take your anti-hormonal medicine every day."
+        },
+        {
+            "type": "Text",
+            "Text": "For example, a reminder could be a note to yourself, an alarm, or anything else that will trigger you to remember to take your medicine.  A person can use more than one reminder to remember to take their medicine."
+        },
+        {
+            "type": "Text",
+            "Text": "Do you currently have a reminder to take your medicine, like an alarm?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": ["Yes","No", "Not Sure"]
+        }
+    ]
+}

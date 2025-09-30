@@ -1,0 +1,13 @@
+{
+    "header_text": "About Travel",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/flow_image_20.png"
+        },
+        {
+            "type": "Text",
+            "Text": "Sometimes bags get misplaced at an airport, on a cruise ship, or at a hotel.  You should always make sure that your medicine is in a bag that you can access if you need it.  Never put your medicine in a back that you check or give to a company to transport for you.  Like your money, credit cards, and phone, medicines should always be kept in a carry-on bag, backpack, or purse, so that you can get them at any time."
+        }
+    ]
+}

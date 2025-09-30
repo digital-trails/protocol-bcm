@@ -1,0 +1,13 @@
+{
+    "header_text": "About Travel",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/flow_image_17.png"
+        },
+        {
+            "type": "Text",
+            "Text": "It is important to plan ahead before your trip to make sure that you will have enough of your medicine.  About 10 days before your trip, take a look at whether you need to refill your prescription.  If you need to refill your medicine(s) call the pharmacy or go online to make a refill request. You may need to talk to the pharmacist to refill your medicine early if you may run out while you are away.  Be sure to do this with all of your medicines. "
+        }
+    ]
+}

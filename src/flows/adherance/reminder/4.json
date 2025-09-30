@@ -1,0 +1,33 @@
+{
+    "header_text": "About Reminder",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/flow_image_14.png"
+        },
+        {
+            "type": "Text",
+            "Text": "You can also think about reminders that are not related to your routine.  These reminders are helpful when you do something different than your usual routine."
+        },
+        {
+            "type": "Text",
+            "Text": "For example, if you usually  take your medicine with breakfast and have a day that you do not eat breakfast, you might forget your medicine."
+        },
+        {
+            "type": "Text",
+            "Text": "Sometimes people create one or more reminders that are not related to their daily routine to remind them to take their medicine.  This could be something like a phone alarm, a calendar notification on your phone, or just putting your medicine bottle in a visible place.."
+        },
+        {
+            "type": "Text",
+            "Text": "Please think of a reminder to take your medicine that is not related to your regular routine and write it down."
+        },
+        {
+            "type": "Text",
+            "Text": "Now think about when you plan to begin using that reminder.  For example, when do you plan to set your phone alarm?  Please write that down too."
+        },
+        {
+            "type": "Text",
+            "Text": "Great! Now, for the next week, try to use the reminders that you wrote down and see if they help you with taking your medicine.  Follow the plan that you came up with for starting the two reminders."
+        }
+    ]
+}

@@ -11,10 +11,8 @@
         },
         {
             "type": "Buttons",
-            "buttons": [
-                "Yes::yes",
-                "No::no"
-            ],
+            "buttons": ["Yes", "No"],
+            "column_count": 2,
             "selectable": true,
             "variable_name": "RoutineSelection1"
         }

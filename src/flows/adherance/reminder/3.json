@@ -1,0 +1,25 @@
+{
+    "header_text": "About Reminder",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/flow_image_13.png"
+        },
+        {
+            "type": "Text",
+            "Text": "Hopefully you have a routine for taking your medicine, such as taking it at the same time that you do something else (like brushing your teeth).  Now it might be helpful to come up with reminders related to your routine."
+        },
+         {
+            "type": "Text",
+            "Text": "For instance, if your routine was taking your anti-hormonal medicine with breakfast, then a good reminder might be to tape a note on the refrigerator reminding you to take your medicine."
+        },
+         {
+            "type": "Text",
+            "Text": "Please think of a reminder to take your medicine that you could link to your regular routine and write it down."
+        },
+         {
+            "type": "Text",
+            "Text": "Now think about when you plan to begin using that reminder.  For example, when do you plan to write the note that you would put on the refrigerator?  Please write that down too."
+        }
+    ]
+}

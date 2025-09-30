@@ -33,7 +33,7 @@
 				  "url": "/assets/document.png",
 				  "tint": false
 				},
-				"action": "navpage://Contact",
+				"action": "flow://flows/adherance",
 				"backgroundcolor": "#1A00C2FF"
 			  },
 			  {

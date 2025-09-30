@@ -1,0 +1,13 @@
+{
+    "header_text": "About Travel",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/flow_image_16.png"
+        },
+        {
+            "type": "Text",
+            "Text": "Did you know that it is common for people to forget to take their medicine when they travel or are away from their home or work?  There are a lot of reasons for this. Sometimes people travel very far away or change time zones, which makes it difficult to stick to the routine to take their medicine.  Other people forget to pack their medicine entirely or run out of it before they get home.  Sometimes people are moving from place to place and they forget their medicine somewhere.  This module provides some tips to help remember to take your medicine when traveling."
+        }
+    ]
+}
