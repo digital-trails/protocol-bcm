@@ -1,0 +1,29 @@
+{
+    "header_text": "About Joint Pain",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/flow_image_25.png"
+        },
+        {
+            "type": "Text",
+            "Text": "It is not clear why some people taking tamoxifen or aromatase inhibitors have pain.  However, some women are more likely to have pain.  Women who are more likely to have joint pain include those who:"
+        },
+        {
+            "type": "Text",
+            "Text": "• had their last menstrual period within the past 5 years"
+        },
+        {
+            "type": "Text",
+            "Text": "• have a higher body weight"
+        },
+        {
+            "type": "Text",
+            "Text": "• had taxane chemotherapy; and"
+        },
+        {
+            "type": "Text",
+            "Text": "• have not previously taken tamoxifen"
+        }
+    ]
+}

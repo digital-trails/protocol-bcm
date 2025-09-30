@@ -1,0 +1,29 @@
+{
+    "header_text": "About Joint Pain",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/flow_image_31.png"
+        },
+        {
+            "type": "Text",
+            "Text": "Another technique that can help you if you are experiencing joint pain is pacing. Pacing is a way to control your activities.  Everyone can benefit from pacing!"
+        },
+         {
+            "type": "Text",
+            "Text": "Would you like to hear more about pacing?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": ["Yes", "No"],
+            "column_count": 2,
+            "selectable": true,
+            "variable_name": "JoinSelection2"
+        }
+    ],
+     "condition": [
+        "JoinSelection1",
+        "=",
+        "No"
+    ]
+}

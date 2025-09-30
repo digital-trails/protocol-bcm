@@ -1,0 +1,13 @@
+{
+    "header_text": "About Joint Pain",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/flow_image_24.png"
+        },
+        {
+            "type": "Text",
+            "Text": "Some people who take tamoxifen or aromatase inhibitors, such as Anastrozole (Arimidex) and Letrozole (Femara), experience pain and stiffness, especially in their joints.  The pain can be in a number of places on the body including the spine, hips, shoulders, elbows, wrists, knees, and feet.  The pain can start at any time.  This side effect can last for a long time or it can start and then stop."
+        }
+    ]
+}

@@ -6,6 +6,7 @@
             "Text": "That is great to hear!  Over the next 2 weeks, keep taking your medicine at the same time as when you do something else."
         }
     ],
+    "navigation_conditions": ["wait_for_click"],
     "condition": [
         "RoutineSelection2",
         "=",

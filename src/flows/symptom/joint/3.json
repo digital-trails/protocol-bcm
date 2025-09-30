@@ -1,0 +1,25 @@
+{
+    "header_text": "About Joint Pain",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/flow_image_26.png"
+        },
+        {
+            "type": "Text",
+            "Text": "Studies have been done to figure out what can relieve joint pain for people taking aromatase inhibitors.  One thing that may help is physical activity or exercise. It seems that lots of different types of exercise can help, including:"
+        },
+        {
+            "type": "Text",
+            "Text": "• Aerobic exercise, like walking on a treadmill"
+        },
+        {
+            "type": "Text",
+            "Text": "• Strength training, like using resistance bands; and"
+        },
+        {
+            "type": "Text",
+            "Text": "• Stretching exercises, like yoga"
+        }
+    ]
+}

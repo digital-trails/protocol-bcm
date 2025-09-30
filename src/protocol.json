@@ -42,7 +42,7 @@
 				  "url": "/assets/diagnosis.png",
 				  "tint": false
 				},
-				"action": "navpage://Contact",
+				"action": "flow://flows/symptom",
 				"backgroundcolor": "#1A00E05A"
 			  },
 			  {

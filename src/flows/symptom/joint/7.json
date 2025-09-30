@@ -1,0 +1,24 @@
+{
+    "header_text": "About Joint Pain",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/flow_image_30.png"
+        },
+        {
+            "type": "Text",
+            "Text": "People who have chronic pain may feel better by using relaxation. Relaxation can help people feel calmer, reduce stress, improve pain, and improve sleep."
+        },
+        {
+            "type": "Text",
+            "Text": "Would you like to learn more about relaxation?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": ["Yes", "No"],
+            "column_count": 2,
+            "selectable": true,
+            "variable_name": "JoinSelection1"
+        }
+    ]
+}
