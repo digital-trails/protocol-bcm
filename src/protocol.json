@@ -81,6 +81,13 @@
           "field": "event",
           "days": 7,
           "bounds": [
+			{
+              "lower-bound": -1,
+              "upper-bound": 0,
+              "text": "💡 Sometimes remembering is the hardest part. Try setting a daily reminder to help make it easier.",
+              "summary": "Low Adherence",
+              "color": "#ff9187"
+            },
             {
               "lower-bound": 0,
               "upper-bound": 0.6,
