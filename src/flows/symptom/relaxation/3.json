@@ -1,0 +1,13 @@
+{
+    "header_text": "About Relaxation",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/flow_image_45.png"
+        },
+        {
+            "type": "Text",
+            "Text": "Although relaxation techniques can be helpful for everybody, they can also be helpful for managing side effects of endocrine therapy. Research has shown that relaxation techniques can help with a wide range of mental health concerns such as stress, chronic stress, and anxiety, and side effects such as joint pain, chronic pain, sleep, and hot flashes. We highly encourage that you try and regularly practice a relaxation technique to help with managing stress and chronic stress, as well as help with managing the side effects of your endocrine therapy."
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "header_text": "About Relaxation",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/flow_image_47.png"
+        },
+        {
+            "type": "Text",
+            "Text": "To practice deep breathing, the first thing you need to know is how to breathe through your abdomen. Your abdomen is in the middle of your body, where your stomach is. People typically breathe in two ways: through their chest or through their abdomen. Breathing through the chest often makes people feel anxious, while breathing through the abdomen makes people feel relaxed. A deep breathing exercise usually takes X minutes.  Are you ready to try deep breathing?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": ["Yes","No"],
+            "column_count": 2,
+            "selectable": true,
+            "variable_name": "RelaxationSelection1"
+        }
+    ]
+}

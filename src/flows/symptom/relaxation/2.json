@@ -1,0 +1,13 @@
+{
+    "header_text": "About Relaxation",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/flow_image_44.png"
+        },
+        {
+            "type": "Text",
+            "Text": "Relaxation techniques can be useful tools to help with managing stress and chronic stress. For example, relaxation can help with lowering our body’s physiological response to a stressor and lowering mental health concerns. "
+        }
+    ]
+}

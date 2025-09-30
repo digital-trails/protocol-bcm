@@ -1,0 +1,13 @@
+{
+    "header_text": "About Relaxation",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/flow_image_43.png"
+        },
+        {
+            "type": "Text",
+            "Text": "Sometimes, events in our life, such as health concerns or financial concerns, can be stressful and lead to high levels of stress. Stress is our body’s natural response to an actual or perceived threat. Over time, stress can lead to chronic stress, which is when you feel stressed or overwhelmed at all times.  Chronic stress may get in the way of managing everyday tasks. Learning to manage stress can be helpful in improving stress levels and coping with things in life that cause stress."
+        }
+    ]
+}
