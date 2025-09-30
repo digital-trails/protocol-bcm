@@ -1,13 +1,13 @@
 {
-    "header_text": "About Tamoxifen",
+    "header_text": "About Aromatase",
     "elements": [
         {
             "type": "Media",
-            "url": ""
+            "url": "./assets/flow_image_5.png"
         },
         {
             "type": "Text",
-            "Text": "Not done yet."
+            "Text": "Some people are surprised to find out that there are different types of breast cancer.  When you were diagnosed with breast cancer, the doctors ran tests to find out what kind you had.  The breast cancer that you had is sensitive to hormones in your body.  These hormones are either estrogen or progesterone, which every woman has in her body.  Your doctor might have told you that your cancer is estrogen-receptor positive or progesterone receptor-positive.  Sometimes it is called ER-positive or PR-positive."
         }
     ]
 }

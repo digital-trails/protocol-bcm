@@ -12,17 +12,7 @@
         	}
 		  },
 		  {
-			  "type": "goals",
-			  "goals": [
-				{
-				  "service": "oura",
-				  "type": "percentile",
-				  "show-loading": true,
-				  "field": "active",
-				  "days": 10,
-				  "percentile": 0.6
-				}
-			  ]
+			  "type": "goals"
 		  },
 		  {
 			"type": "tiles",
@@ -68,5 +58,53 @@
 		  }
 		]
 	}
-  }
+  },
+   "devices": [
+    {
+      "type": "Fitbit",
+      "channel": "Api",
+      "path": "https://api.fitbit.com/1/user/-",
+      "endpoints": [
+        {
+          "path": "activities/steps",
+          "days": 10,
+          "writesdatum": true
+        }
+      ]
+    },
+    {
+      "type": "WisePill",
+      "channel": "Webhook",
+      "goals": [
+        {
+          "type": "binarypercentage",
+          "field": "event",
+          "days": 7,
+          "bounds": [
+            {
+              "lower-bound": 0,
+              "upper-bound": 0.6,
+              "text": "🌞 A new week means a fresh start—this is your chance to get back on track with taking your medicine!",
+              "summary": "Low Adherence",
+              "color": "#ff9187"
+            },
+            {
+              "lower-bound": 0.6,
+              "upper-bound": 0.79,
+              "text": "🎉 Nice work! You’re on your way—just a little more consistency will get you to the top.",
+              "summary": "Moderate Adherence",
+              "color": "#F5E050"
+            },
+            {
+              "lower-bound": 0.79,
+              "upper-bound": 1,
+              "text": "🎉 Great job! You’ve been very consistent with your medicine this week—keep it up! Every dose helps protect your health.",
+              "summary": "High Adherence",
+              "color": "#65bf65"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

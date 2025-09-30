@@ -1,0 +1,18 @@
+{
+    "header_text": "About Aromatase",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/flow_image_6.png"
+        },
+        {
+            "type": "Text",
+            "text": "Aromatase inhibitors work best when you take them at the exact same time every day. Do you want to learn some strategies for remembering to take your medicine?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": ["Yes","No"],
+            "column_count": 2
+        }
+    ]
+}

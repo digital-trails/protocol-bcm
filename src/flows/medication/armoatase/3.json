@@ -1,0 +1,13 @@
+{
+    "header_text": "About Aromatase",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/flow_image_3.png"
+        },
+        {
+            "type": "Text",
+            "Text": "Because you have a type of cancer that grows when there are hormones in your body, your doctor is asking you to take a medicine called an aromatase inhibitor.  There are several types of aromatase inhibitors, such as Letrozole or Exemestane.  Aromatase inhibitors basically block the hormones in your body from feeding the cancer.  So, if cancer cells start to reappear again, the medicine will prevent them from growing."
+        }
+    ]
+}
