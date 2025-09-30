@@ -7,13 +7,13 @@
         },
         {
             "type": "Buttons",
-            "buttons": ["Yes", "No"],
+            "buttons": ["Yes","No"],
             "column_count": 2,
             "selectable": true,
             "variable_name": "RoutineSelection2"
         }
     ],
-        "condition": [
+    "condition": [
         "RoutineSelection1",
         "=",
         "Yes"

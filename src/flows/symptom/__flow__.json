@@ -4,6 +4,8 @@
     "text": "Make a selection below to learn more about symptom management",
     "selections": {
         "Joint Pain": "joint",
-        "Hot Flashes": "flashes"
+        "Hot Flashes": "flashes",
+        "Pacing for Pain and Fatigue": "pacing",
+        "Relaxation": "relaxation"
     }
 }

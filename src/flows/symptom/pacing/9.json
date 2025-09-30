@@ -1,0 +1,14 @@
+{
+    "header_text": "About Pacing for Pain and Fatigue",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Here are some relaxation exercises that you can try today: <a href=\"https://docs.google.com/document/d/18IAQxw0_ksxwDAKScRmKYH6ZYBIb5Jwt9i9XZORVkiQ/edit\">LINK TO RELAXATION AUDIOS</a>"
+        }
+    ],
+     "condition": [
+        "PacingSelection1",
+        "=",
+        "No"
+    ]
+}

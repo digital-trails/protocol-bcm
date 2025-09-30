@@ -1,0 +1,20 @@
+{
+    "header_text": "About Pacing for Pain and Fatigue",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./assets/flow_image_42.png"
+        },
+        {
+            "type": "Text",
+            "Text": "Are you ready to try pacing over the next week?"
+        },
+         {
+            "type": "Buttons",
+            "buttons": ["Yes", "No"],
+            "column_count": 2,
+            "selectable": true,
+            "variable_name": "PacingSelection1"
+        }
+    ]
+}

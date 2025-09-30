@@ -1,0 +1,14 @@
+{
+    "header_text": "About Pacing for Pain and Fatigue",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Great! Why don't you pick one activity during the week that may make your joint pain worse.  Then try to do that activity for 10 minutes, followed by 15 minutes of rest.  Try this for the rest of the week."
+        }
+    ],
+     "condition": [
+        "PacingSelection1",
+        "=",
+        "Yes"
+    ]
+}
