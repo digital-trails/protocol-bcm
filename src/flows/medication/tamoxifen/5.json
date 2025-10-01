@@ -16,6 +16,7 @@
         {
             "type": "Buttons",
             "buttons": ["flow://flows/adherance/routine::Yes","No"],
+            "variable_name":"flow://tamoxifen",
             "column_count": 2
         }
     ]
