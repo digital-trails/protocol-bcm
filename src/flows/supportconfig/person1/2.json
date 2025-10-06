@@ -3,6 +3,7 @@
     "elements": [
         {
             "type": "Text",
+            "has_variable": true,
             "text": "Below are difficulties that you might experience during your cancer journey. ${person1} could help you with which difficulties. Choose all that apply:"
         },
          {
