@@ -12,6 +12,7 @@
         },
         {
             "type": "Picker",
+            "title": "Select Relationship",
             "items": [
                 "Family",
                 "Friend",
@@ -21,11 +22,14 @@
         },
         {
             "type": "entry",
+            "placeholder": "Enter Phone",
+            "keyboard": "Telephone",
             "variable_name": "global:person1phone"
         },
         {
             "type": "entry",
             "placeholder": "Enter Email",
+             "keyboard": "Email",
             "variable_name": "global:person1email"
         },
         {

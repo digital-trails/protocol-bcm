@@ -3,9 +3,9 @@
     "save_selection": true,
     "text": "Please add the contact for the people, groups, or organizations who have provide you with social support during your cancer journey.",
     "selections": {
-        "Person1 1": "person1",
-        "Person1 2": "person2",
-        "Person1 3": "person3",
+        "Person 1": "person1",
+        "Person 2": "person2",
+        "Person 3": "person3",
         "Add another source of support": "anothersupport"
     },
      "completed_alert": "Thanks for adding in all this information about how people in your life can help you! When you need support, you can remind yourself about who can help in Your Support Map, which can be found on the main menu. Go ahead and select it!"
