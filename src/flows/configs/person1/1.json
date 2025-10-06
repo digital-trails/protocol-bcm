@@ -1,0 +1,41 @@
+{
+    "header_text": "Person 1",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Please enter their contact information"
+        },
+        {
+            "type": "entry",
+            "placeholder": "Enter Name",
+            "variable_name": "global:person1"
+        },
+        {
+            "type": "Picker",
+            "items": [
+                "Family",
+                "Friend",
+                "Colleague"
+            ],
+            "variable_name": "global:person1relationship"
+        },
+        {
+            "type": "entry",
+            "variable_name": "global:person1phone"
+        },
+        {
+            "type": "entry",
+            "placeholder": "Enter Email",
+            "variable_name": "global:person1email"
+        },
+        {
+            "type": "entry",
+            "placeholder": "How could they help?",
+            "variable_name": "global:person1help"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

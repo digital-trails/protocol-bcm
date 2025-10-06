@@ -1,0 +1,22 @@
+{
+    "header_text": "Another Support",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Below are difficulties that you might experience during your cancer journey. ${person1} could help you with which difficulties. Choose all that apply:"
+        },
+         {
+            "type": "Buttons",
+            "buttons": [
+                "0::Stress, sadness, anxiety",
+                "1::Sleep problems",
+                "2::Transportation",
+                "3::Insurance help",
+                "!4::Other:"
+            ],
+            "selectable": true,
+            "multiselect": true
+        }
+    ],
+    "navigation_conditions": ["wait_for_complete", "wait_for_click"]
+}

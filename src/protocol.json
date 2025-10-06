@@ -1,65 +1,67 @@
 {
-	"home": {
-		"title": "BCM",
-		"element": { "type": "list", "elements": [
-		  {
-			"type": "alert",
-			"title": "Smart and Connected",
-			"message": "Together we can.",
-			"icon": {
-          		"url": "/assets/daily-routine.png",
-          		"tint": false
-        	}
-		  },
-		  {
-			  "type": "goals"
-		  },
-		  {
-			"type": "tiles",
-			"actions": [
-			  {
-				"text": "About Medications",
-				"icon": {
-				  "url": "/assets/medicine.png",
-				  "tint": false
-				},
-				"action": "flow://flows/medication",
-				"backgroundcolor": "#1A5C2FDA",
-				"markcompleted": true
-			  },
-			  {
-				"text": "Adherance Tips",
-				"icon": {
-				  "url": "/assets/document.png",
-				  "tint": false
-				},
-				"action": "flow://flows/adherance",
-				"backgroundcolor": "#1A00C2FF"
-			  },
-			  {
-				"text": "Symptoms Management",
-				"icon": {
-				  "url": "/assets/diagnosis.png",
-				  "tint": false
-				},
-				"action": "flow://flows/symptom",
-				"backgroundcolor": "#1A00E05A"
-			  },
-			  {
-				"text": "Finding Support",
-				"icon": {
-				  "url": "/assets/hands.png",
-				  "tint": false
-				},
-				"action": "flow://flows/support",
-				"backgroundcolor": "#1A206AFF"
-			  }
-			]
-		  }
-		]
-	}
+  "home": {
+    "title": "BCM",
+    "element": {
+      "type": "list",
+      "elements": [
+        {
+          "type": "alert",
+          "title": "Smart and Connected",
+          "message": "Together we can.",
+          "icon": {
+            "url": "/assets/daily-routine.png",
+            "tint": false
+          }
+        },
+        {
+          "type": "goals"
+        },
+        {
+          "type": "tiles",
+          "actions": [
+            {
+              "text": "About Medications",
+              "icon": {
+                "url": "/assets/medicine.png",
+                "tint": false
+              },
+              "action": "flow://flows/medication",
+              "backgroundcolor": "#1A5C2FDA",
+              "markcompleted": true
+            },
+            {
+              "text": "Adherance Tips",
+              "icon": {
+                "url": "/assets/document.png",
+                "tint": false
+              },
+              "action": "flow://flows/adherance",
+              "backgroundcolor": "#1A00C2FF"
+            },
+            {
+              "text": "Symptoms Management",
+              "icon": {
+                "url": "/assets/diagnosis.png",
+                "tint": false
+              },
+              "action": "flow://flows/symptom",
+              "backgroundcolor": "#1A00E05A"
+            },
+            {
+              "text": "Finding Support",
+              "icon": {
+                "url": "/assets/hands.png",
+                "tint": false
+              },
+              "action": "flow://flows/support",
+              "backgroundcolor": "#1A206AFF"
+            }
+          ]
+        }
+      ]
+    }
   },
-   "devices": [
+  "devices": [
     {
       "type": "Fitbit",
       "channel": "Api",
@@ -81,7 +83,7 @@
           "field": "event",
           "days": 7,
           "bounds": [
-			{
+            {
               "lower-bound": -1,
               "upper-bound": 0,
               "text": "💡 Sometimes remembering is the hardest part. Try setting a daily reminder to help make it easier.",
@@ -112,6 +114,12 @@
           ]
         }
       ]
+    }
+  ],
+  "menu": [
+    {
+      "text": "Social Support",
+      "action": "flow://flows/${global:population}/${global:group}/end of day/"
     }
   ]
 }

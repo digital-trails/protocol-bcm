@@ -1,0 +1,11 @@
+{
+    "mode": "select",
+    "save_selection": true,
+    "text": "Please add the contact for the people, groups, or organizations who have provide you with social support during your cancer journey.",
+    "selections": {
+        "Person1 1": "person1",
+        "Person1 2": "person2",
+        "Person1 3": "person3",
+        "Add another source of support": "anothersupport"
+    }
+}
