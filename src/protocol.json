@@ -119,7 +119,7 @@
   "menu": [
     {
       "text": "Social Support",
-      "action": "flow://flows/${global:population}/${global:group}/end of day/"
+      "action": "flow://flows/supportconfig"
     }
   ]
 }
