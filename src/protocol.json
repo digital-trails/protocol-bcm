@@ -118,7 +118,8 @@
   ],
   "menu": [
     {
-      "text": "Social Support",
+      "text": "Your Support Map",
+      "icon": "/assets/hands.png",
       "action": "flow://flows/supportconfig"
     }
   ]
