@@ -119,7 +119,10 @@
   "menu": [
     {
       "text": "Your Support Map",
-      "icon": "/assets/hands.png",
+      "icon": {
+        "url": "/assets/hands.png",
+        "tint": false
+      },
       "action": "flow://flows/supportconfig"
     }
   ]
