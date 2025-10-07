@@ -124,6 +124,14 @@
         "tint": false
       },
       "action": "flow://flows/supportconfig"
+    },
+     {
+      "text": "Your Healthcare Team",
+      "icon": {
+        "url": "/assets/support.png",
+        "tint": false
+      },
+      "action": "navpage://Contact"
     }
   ]
 }
