@@ -63,18 +63,6 @@
   },
   "devices": [
     {
-      "type": "Fitbit",
-      "channel": "Api",
-      "path": "https://api.fitbit.com/1/user/-",
-      "endpoints": [
-        {
-          "path": "activities/steps",
-          "days": 10,
-          "writesdatum": true
-        }
-      ]
-    },
-    {
       "type": "WisePill",
       "channel": "Webhook",
       "goals": [
