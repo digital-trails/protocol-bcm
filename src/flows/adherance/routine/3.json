@@ -12,52 +12,62 @@
         {
             "type": "entry",
             "placeholder": "Item 1",
-            "variable_name": "routine_item_1"
+            "variable_name": "routine_item_1",
+            "report": "List of things that you do at the same time every day.\n Item 1"
         },
         {
             "type": "entry",
             "placeholder": "Item 2",
-            "variable_name": "routine_item_2"
+            "variable_name": "routine_item_2",
+            "report": "Item 2"
         },
         {
             "type": "entry",
             "placeholder": "Item 3",
-            "variable_name": "routine_item_3"
+            "variable_name": "routine_item_3",
+            "report": "Item 3"
         },
         {
             "type": "entry",
             "placeholder": "Item 4",
-            "variable_name": "routine_item_4"
+            "variable_name": "routine_item_4",
+            "report": "Item 4"
         },
         {
             "type": "entry",
             "placeholder": "Item 5",
-            "variable_name": "routine_item_5"
+            "variable_name": "routine_item_5",
+            "report": "Item 5"
         },
         {
             "type": "entry",
             "placeholder": "Item 6",
-            "variable_name": "routine_item_6"
+            "variable_name": "routine_item_6",
+            "report": "Item 6"
         },
         {
             "type": "entry",
             "placeholder": "Item 7",
-            "variable_name": "routine_item_7"
+            "variable_name": "routine_item_7",
+            "report": "Item 7"
         },
         {
             "type": "entry",
             "placeholder": "Item 8",
-            "variable_name": "routine_item_8"
+            "variable_name": "routine_item_8",
+            "report": "Item 8"
         },
         {
             "type": "entry",
             "placeholder": "Item 9",
-            "variable_name": "routine_item_9"
+            "variable_name": "routine_item_9",
+            "report": "Item 9"
         },
         {
             "type": "entry",
             "placeholder": "Item 10",
-            "variable_name": "routine_item_10"
+            "variable_name": "routine_item_10",
+            "report": "Item 10"
         },
         {
             "type": "Text",
@@ -70,7 +80,8 @@
         {
             "type": "entry",
             "placeholder": "Item",
-            "variable_name": "routine_item"
+            "variable_name": "routine_item",
+            "report": "One thing that you do every day where it would be easy to also take your medicine."
         },
         {
             "type": "Text",
@@ -82,7 +93,8 @@
         },
         {
             "type": "time",
-            "variable_name": "routine_time"
+            "variable_name": "routine_time",
+            "report": "What time do you plan to take your medicine each day?"
         }
     ]
 }
