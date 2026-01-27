@@ -79,6 +79,7 @@
     {
       "type": "history",
       "id": "trigger_1",
+      "flowid": "flow://flows/adherance/routine",
       "period": "00:01:00",
       "action": {
         "type": "notification",
