@@ -6,8 +6,8 @@
       "elements": [
         {
           "type": "alert",
-          "title": "Smart and Connected",
-          "message": "Together we can.",
+          "title": "MyMedSupport",
+          "message": "Your personalized partner",
           "icon": {
             "url": "/assets/daily-routine.png",
             "tint": false
@@ -17,10 +17,23 @@
           "type": "goals"
         },
         {
+          "type": "reports",
+          "title": "Your tasks",
+          "backgroundcolor": "#1A206AFF",
+          "single": true,
+          "reports": [
+            {
+              "title": "Tips for your routine",
+              "action": "flow://flows/adherance/routine",
+               "report": true
+            }
+          ]
+        },
+        {
           "type": "tiles",
           "actions": [
             {
-              "text": "About Medications",
+              "text": "To: About Your Medicines",
               "icon": {
                 "url": "/assets/medicine.png",
                 "tint": false
@@ -30,7 +43,7 @@
               "markcompleted": true
             },
             {
-              "text": "Adherance Tips",
+              "text": "To Tips for taking your medicine",
               "icon": {
                 "url": "/assets/document.png",
                 "tint": false
@@ -39,7 +52,7 @@
               "backgroundcolor": "#1A00C2FF"
             },
             {
-              "text": "Symptoms Management",
+              "text": "To Managing Your Symptoms",
               "icon": {
                 "url": "/assets/diagnosis.png",
                 "tint": false

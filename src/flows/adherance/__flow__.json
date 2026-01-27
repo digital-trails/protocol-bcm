@@ -3,7 +3,6 @@
     "column_count": 2,
     "text": "Make a selection below to learn more about adherance",
     "selections": {
-        "Routine": "routine",
         "Reminder": "reminder",
         "Preparing to Travel": "travel"
     }
