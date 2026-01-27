@@ -10,64 +10,11 @@
             "Text": "Let’s think of something that you do at the same time every day. Make a list of up to 10 things that you do at the same time every day:"
         },
         {
-            "type": "entry",
-            "placeholder": "Item 1",
-            "variable_name": "routine_item_1",
+            "type": "entrylist",
+            "placeholder": "Enter Item",
+            "count": 10,
+            "variable_name": "routine_items",
             "report": "List of things that you do at the same time every day."
-        },
-        {
-            "type": "entry",
-            "placeholder": "Item 2",
-            "variable_name": "routine_item_2",
-            "report": "Item 2"
-        },
-        {
-            "type": "entry",
-            "placeholder": "Item 3",
-            "variable_name": "routine_item_3",
-            "report": "Item 3"
-        },
-        {
-            "type": "entry",
-            "placeholder": "Item 4",
-            "variable_name": "routine_item_4",
-            "report": "Item 4"
-        },
-        {
-            "type": "entry",
-            "placeholder": "Item 5",
-            "variable_name": "routine_item_5",
-            "report": "Item 5"
-        },
-        {
-            "type": "entry",
-            "placeholder": "Item 6",
-            "variable_name": "routine_item_6",
-            "report": "Item 6"
-        },
-        {
-            "type": "entry",
-            "placeholder": "Item 7",
-            "variable_name": "routine_item_7",
-            "report": "Item 7"
-        },
-        {
-            "type": "entry",
-            "placeholder": "Item 8",
-            "variable_name": "routine_item_8",
-            "report": "Item 8"
-        },
-        {
-            "type": "entry",
-            "placeholder": "Item 9",
-            "variable_name": "routine_item_9",
-            "report": "Item 9"
-        },
-        {
-            "type": "entry",
-            "placeholder": "Item 10",
-            "variable_name": "routine_item_10",
-            "report": "Item 10"
         },
         {
             "type": "Text",
