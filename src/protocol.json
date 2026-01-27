@@ -20,6 +20,7 @@
           "type": "reports",
           "title": "Your tasks",
           "backgroundcolor": "#1A206AFF",
+          "text": "View Routine",
           "single": true,
           "reports": [
             {
