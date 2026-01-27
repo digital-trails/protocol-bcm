@@ -7,11 +7,82 @@
         },
         {
             "type": "Text",
-            "Text": "Let’s think of something that you do at the same time every day.  Go ahead and write down in your notebook one or more things that you do at the same time every day. In looking at your list, is there one thing that you do every day where it would be easy to take your medicine at the same time?  For example, you may want a glass of water to swallow your medicine, so eating or brushing your teeth are good choices.  Please circle the best option from the list in your notebook."
+            "Text": "Let’s think of something that you do at the same time every day. Make a list of up to 10 things that you do at the same time every day:"
         },
-         {
+        {
+            "type": "entry",
+            "placeholder": "Item 1",
+            "variable_name": "routine_item_1"
+        },
+        {
+            "type": "entry",
+            "placeholder": "Item 2",
+            "variable_name": "routine_item_2"
+        },
+        {
+            "type": "entry",
+            "placeholder": "Item 3",
+            "variable_name": "routine_item_3"
+        },
+        {
+            "type": "entry",
+            "placeholder": "Item 4",
+            "variable_name": "routine_item_4"
+        },
+        {
+            "type": "entry",
+            "placeholder": "Item 5",
+            "variable_name": "routine_item_5"
+        },
+        {
+            "type": "entry",
+            "placeholder": "Item 6",
+            "variable_name": "routine_item_6"
+        },
+        {
+            "type": "entry",
+            "placeholder": "Item 7",
+            "variable_name": "routine_item_7"
+        },
+        {
+            "type": "entry",
+            "placeholder": "Item 8",
+            "variable_name": "routine_item_8"
+        },
+        {
+            "type": "entry",
+            "placeholder": "Item 9",
+            "variable_name": "routine_item_9"
+        },
+        {
+            "type": "entry",
+            "placeholder": "Item 10",
+            "variable_name": "routine_item_10"
+        },
+        {
             "type": "Text",
-            "Text": "Now think about when you plan to begin taking your medicine at the same time as something else. For example, when do you plan to start taking your medicine when you eat breakfast?  Please write that down too."
+            "Text": "In looking at your list, is there one thing that you do every day where it would be easy to take your medicine at the same time?  For example, you may want a glass of water to swallow your medicine, so eating or brushing your teeth are good choices."
+        },
+        {
+            "type": "Text",
+            "Text": "Please pick the one thing that you do every day where it would be easy to also take your medicine and enter it here:"
+        },
+        {
+            "type": "entry",
+            "placeholder": "Item",
+            "variable_name": "routine_item"
+        },
+        {
+            "type": "Text",
+            "Text": "Now think about what time of the day that you plan to take your medicine. This should be at the same time as the thing that you do every day."
+        },
+        {
+            "type": "Text",
+            "Text": "What time do you plan to take your medicine each day?"
+        },
+        {
+            "type": "time",
+            "variable_name": "routine_time"
         }
     ]
 }

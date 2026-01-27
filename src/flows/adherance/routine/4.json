@@ -2,12 +2,18 @@
     "header_text": "It is important to have a routine",
     "elements": [
         {
-            "type": "Media",
-            "url": "./assets/flow_image_10.png"
+            "type": "Text",
+            "Text": "Great! Now, you may have a new plan to take your medicine.  Please rate how confident that you are in taking your tamoxifen or Aromatase inhibitor medicine at the same time each day:"
         },
         {
-            "type": "Text",
-            "Text": "If you plan to take your medicine at the same time as you do something else, it is important for you to see your medicine at that time. This could be on your bathroom counter by your toothbrush if you plan to take it when you brush your teeth.  If you plan to take it when you eat a meal, you can put your medicine by your kitchen sink or on the table.  Having your medicine in a visible place can be helpful to remember to take it."
+            "type": "Buttons",
+            "buttons": [
+                "0::Not at all confident",
+                "1::Somewhat confident",
+                "2::Confident",
+                "3::Very confident"
+            ],
+            "variable_name": "routine_confidence_level"
         }
     ]
 }

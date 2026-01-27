@@ -18,11 +18,11 @@
         }
     ],
     "condition": [
-        "RoutineSelection1",
+        "routine_notification_selection_1",
         "=",
         "No",
         "||",
-        "RoutineSelection2",
+        "routine_notification_selection_2",
         "=",
         "No"
     ]

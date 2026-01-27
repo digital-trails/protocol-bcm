@@ -10,11 +10,11 @@
             "buttons": ["Yes","No"],
             "column_count": 2,
             "selectable": true,
-            "variable_name": "RoutineSelection2"
+            "variable_name": "routine_notification_selection_2"
         }
     ],
     "condition": [
-        "RoutineSelection1",
+        "routine_notification_selection_1",
         "=",
         "Yes"
     ]

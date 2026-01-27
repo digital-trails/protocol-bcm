@@ -23,7 +23,7 @@
           "single": true,
           "reports": [
             {
-              "title": "Tips for your routine",
+              "title": "Set your routine",
               "action": "flow://flows/adherance/routine",
                "report": true
             }

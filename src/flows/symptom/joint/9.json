@@ -1,5 +1,5 @@
 {
-    "header_text": "About Joint Pain",
+    "header_text": "Managing Joint Pain",
     "elements": [
         {
             "type": "Media",
@@ -9,13 +9,19 @@
             "type": "Text",
             "Text": "Some people taking tamoxifen or aromatase inhibitors experience pain. However, there are many ways to relieve pain, including exercise, pacing, relaxation, acupuncture, the medicine duloxetine, taking a short medicine break, and switching to a new aromatase inhibitor or tamoxifen.  It is important to consult with your doctor about what to do if you are experiencing joint pain."
         },
-         {
+        {
             "type": "Text",
             "Text": "What do you plan to do to manage pain?"
+        },
+        {
+			"type": "Entry",
+			"height": 200
         }
     ],
-    "navigation_conditions": ["wait_for_click"],
-     "condition": [
+    "navigation_conditions": [
+        "wait_for_click"
+    ],
+    "condition": [
         "JoinSelection2",
         "=",
         "No"
