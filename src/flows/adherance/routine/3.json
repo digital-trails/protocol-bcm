@@ -13,7 +13,7 @@
             "type": "entry",
             "placeholder": "Item 1",
             "variable_name": "routine_item_1",
-            "report": "List of things that you do at the same time every day.\n Item 1"
+            "report": "List of things that you do at the same time every day."
         },
         {
             "type": "entry",
