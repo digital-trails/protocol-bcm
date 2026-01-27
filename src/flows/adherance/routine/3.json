@@ -13,6 +13,7 @@
             "type": "entrylist",
             "placeholder": "Enter Item",
             "count": 10,
+            "Border": true,
             "variable_name": "routine_items",
             "report": "List of things that you do at the same time every day."
         },
