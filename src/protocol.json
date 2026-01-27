@@ -26,7 +26,7 @@
             {
               "title": "Set your routine",
               "action": "flow://flows/adherance/routine",
-               "report": true
+              "report": true
             }
           ]
         },
@@ -75,6 +75,19 @@
       ]
     }
   },
+  "triggers": [
+    {
+      "type": "history",
+      "id": "trigger_1",
+      "period": "00:01:00",
+      "action": {
+        "type": "notification",
+        "path": "flow://flows/adherance/routine_notification",
+        "title": "Routine Check In!",
+        "message": "How's your routine going?"
+      }
+    }
+  ],
   "devices": [
     {
       "type": "WisePill",
@@ -128,7 +141,7 @@
       },
       "action": "flow://flows/supportconfig"
     },
-     {
+    {
       "text": "Your Healthcare Team",
       "icon": {
         "url": "/assets/support.png",
