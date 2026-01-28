@@ -1,10 +1,10 @@
 {
-    "header_text": "Another Support",
+    "header_text": "Person 2",
     "elements": [
         {
             "type": "Text",
             "has_variable": true,
-            "text": "Below are difficulties that you might experience during your cancer journey. ${global:anothersupport} could help you with which difficulties. Choose all that apply:"
+            "text": "Below are difficulties that you might experience during your cancer journey. Could this person help you with which difficulties. Choose all that apply:"
         },
          {
             "type": "Buttons",
@@ -17,7 +17,8 @@
             ],
             "selectable": true,
             "multiselect": true,
-            "variable_name": "global:anothersupportdifficulty"
+            "variable_name": "person2difficulty",
+            "report": "How could this person help?"
         }
     ],
     "navigation_conditions": ["wait_for_complete", "wait_for_click"]

@@ -23,7 +23,7 @@
         },
         {
             "type": "Buttons",
-            "buttons": ["flow://flows/supportconfig::Yes","No"],
+            "buttons": ["flow://flows/persons::Yes","No"],
             "column_count": 2
         }
     ]

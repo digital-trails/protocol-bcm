@@ -4,7 +4,7 @@
         {
             "type": "Text",
             "has_variable": true,
-            "text": "Below are difficulties that you might experience during your cancer journey. ${global:person3} could help you with which difficulties. Choose all that apply:"
+            "text": "Below are difficulties that you might experience during your cancer journey. Could this person help you with which difficulties. Choose all that apply:"
         },
          {
             "type": "Buttons",
@@ -17,7 +17,8 @@
             ],
             "selectable": true,
             "multiselect": true,
-            "variable_name": "global:person3difficulty"
+            "variable_name": "person3difficulty",
+            "report": "How could this person help?"
         }
     ],
     "navigation_conditions": ["wait_for_complete", "wait_for_click"]

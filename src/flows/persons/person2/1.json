@@ -1,5 +1,5 @@
 {
-    "header_text": "Person 1",
+    "header_text": "Person 2",
     "elements": [
         {
             "type": "Text",
@@ -8,7 +8,8 @@
         {
             "type": "entry",
             "placeholder": "Enter Name",
-            "variable_name": "global:person1"
+            "variable_name": "person2",
+            "report": "Name"
         },
         {
             "type": "Picker",
@@ -18,24 +19,28 @@
                 "Friend",
                 "Colleague"
             ],
-            "variable_name": "global:person1relationship"
+            "variable_name": "person2relationship",
+            "report": "Relationship"
         },
         {
             "type": "entry",
             "placeholder": "Enter Phone",
             "keyboard": "Telephone",
-            "variable_name": "global:person1phone"
+            "variable_name": "person2phone",
+            "report": "Phone"
         },
         {
             "type": "entry",
             "placeholder": "Enter Email",
-             "keyboard": "Email",
-            "variable_name": "global:person1email"
+            "keyboard": "Email",
+            "variable_name": "person2email",
+            "report": "Email"
         },
         {
             "type": "entry",
             "placeholder": "How could they help?",
-            "variable_name": "global:person1help"
+            "variable_name": "person2help",
+            "report": "How could they help?"
         }
     ],
     "navigation_conditions": [

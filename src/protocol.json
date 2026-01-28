@@ -34,6 +34,11 @@
               "title": "Set your routine",
               "action": "flow://flows/adherance/routine",
               "report": true
+            },
+            {
+              "title": "Set your support system",
+              "action": "flow://flows/adherance/support",
+              "report": true
             }
           ]
         },
@@ -41,7 +46,7 @@
           "type": "tiles",
           "actions": [
             {
-              "text": "To: About Your Medicines",
+              "text": "To About Your Medicines",
               "icon": {
                 "url": "/assets/medicine.png",
                 "tint": false
@@ -69,12 +74,12 @@
               "backgroundcolor": "#1A00E05A"
             },
             {
-              "text": "Finding Support",
+              "text": "Your Healthcare Team",
               "icon": {
                 "url": "/assets/hands.png",
                 "tint": false
               },
-              "action": "flow://flows/support",
+              "action": "navpage://Contact",
               "backgroundcolor": "#1A206AFF"
             }
           ]
@@ -140,24 +145,6 @@
           ]
         }
       ]
-    }
-  ],
-  "menu": [
-    {
-      "text": "Your Support Map",
-      "icon": {
-        "url": "/assets/hands.png",
-        "tint": false
-      },
-      "action": "flow://flows/supportconfig"
-    },
-    {
-      "text": "Your Healthcare Team",
-      "icon": {
-        "url": "/assets/support.png",
-        "tint": false
-      },
-      "action": "navpage://Contact"
     }
   ]
 }
