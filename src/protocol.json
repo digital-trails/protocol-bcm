@@ -88,7 +88,7 @@
       "id": "trigger_1",
       "flowid": "flow://flows/adherance/routine",
       "lockedtext": "Opens a week after you set your routine",
-      "period": "00:01:00",
+      "period": "00:02:00",
       "action": {
         "type": "notification",
         "path": "flow://flows/adherance/routine check in",
