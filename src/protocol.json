@@ -9,7 +9,7 @@
           "title": "MyMedSupport",
           "message": "Your personalized partner",
           "icon": {
-            "url": "/assets/daily-routine.png",
+            "url": "/assets/diagnosis.png",
             "tint": false
           }
         },
@@ -27,7 +27,7 @@
           "type": "reports",
           "title": "Your routine",
           "icon": {
-            "url": "/assets/daily-routine.png",
+            "url": "/assets/adherence.png",
             "tint": false
           },
           "text": "View Routine",
