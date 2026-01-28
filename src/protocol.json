@@ -17,6 +17,13 @@
           "type": "goals"
         },
         {
+          "type": "button",
+          "action": {
+            "text": "Surveys",
+            "action": "navmodal://Survey"
+          }
+        },
+        {
           "type": "reports",
           "title": "Your routine",
           "backgroundcolor": "#1A206AFF",
@@ -30,12 +37,32 @@
           ]
         },
         {
-          "type": "button",
-          "action": {
-            "text": "Surveys",
-            "action": "navmodal://Survey"
-          }
-        },
+          "type": "reports",
+          "title": "Your social support",
+          "backgroundcolor": "#1A00C2FF",
+          "text": "View support",
+          "reports": [
+            {
+              "title": "Learn how to set your social support",
+              "action": "flow://flows/support"
+            },
+            {
+              "title": "Person 1",
+              "action": "flow://flows/persons/person1",
+              "report": true
+            },
+            {
+              "title": "Person 2",
+              "action": "flow://flows/persons/person2",
+              "report": true
+            },
+            {
+              "title": "Person 3",
+              "action": "flow://flows/persons/person3",
+              "report": true
+            }
+          ]
+        }
         {
           "type": "tiles",
           "actions": [
@@ -75,33 +102,6 @@
               },
               "action": "navpage://Contact",
               "backgroundcolor": "#1A206AFF"
-            }
-          ]
-        },
-        {
-          "type": "reports",
-          "title": "Your social support",
-          "backgroundcolor": "#1A00C2FF",
-          "text": "View Routine",
-          "reports": [
-            {
-              "title": "Learn how to set your social support",
-              "action": "flow://flows/support"
-            },
-            {
-              "title": "Person 1",
-              "action": "flow://flows/persons/person1",
-              "report": true
-            },
-            {
-              "title": "Person 2",
-              "action": "flow://flows/persons/person2",
-              "report": true
-            },
-            {
-              "title": "Person 3",
-              "action": "flow://flows/persons/person3",
-              "report": true
             }
           ]
         }
