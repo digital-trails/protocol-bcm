@@ -71,6 +71,7 @@
         },
         {
           "type": "tiles",
+          "title": "More resources",
           "icon": {
             "url": "/assets/document.png",
             "tint": false
