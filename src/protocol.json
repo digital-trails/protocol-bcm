@@ -87,7 +87,7 @@
       "type": "history",
       "id": "trigger_1",
       "flowid": "flow://flows/adherance/routine",
-      "lockedtext": "Opens a week after you set your routine",
+      "lockedtext": "Opens {0} after you set your routine",
       "period": "00:02:00",
       "action": {
         "type": "notification",
