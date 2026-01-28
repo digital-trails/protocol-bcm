@@ -26,7 +26,10 @@
         {
           "type": "reports",
           "title": "Your routine",
-          "backgroundcolor": "#1A206AFF",
+          "icon": {
+            "url": "/assets/daily-routine.png",
+            "tint": false
+          },
           "text": "View Routine",
           "reports": [
             {
@@ -39,7 +42,10 @@
         {
           "type": "reports",
           "title": "Your social support",
-          "backgroundcolor": "#1A00C2FF",
+          "icon": {
+            "url": "/assets/hands.png",
+            "tint": false
+          },
           "text": "View support",
           "reports": [
             {
@@ -65,43 +71,27 @@
         },
         {
           "type": "tiles",
+          "icon": {
+            "url": "/assets/document.png",
+            "tint": false
+          },
           "actions": [
             {
               "text": "To About Your Medicines",
-              "icon": {
-                "url": "/assets/medicine.png",
-                "tint": false
-              },
               "action": "flow://flows/medication",
-              "backgroundcolor": "#1A5C2FDA",
               "markcompleted": true
             },
             {
               "text": "To Tips for taking your medicine",
-              "icon": {
-                "url": "/assets/document.png",
-                "tint": false
-              },
-              "action": "flow://flows/adherance",
-              "backgroundcolor": "#1A00C2FF"
+              "action": "flow://flows/adherance"
             },
             {
               "text": "To Managing Your Symptoms",
-              "icon": {
-                "url": "/assets/diagnosis.png",
-                "tint": false
-              },
-              "action": "flow://flows/symptom",
-              "backgroundcolor": "#1A00E05A"
+              "action": "flow://flows/symptom"
             },
             {
               "text": "Your Healthcare Team",
-              "icon": {
-                "url": "/assets/hands.png",
-                "tint": false
-              },
-              "action": "navpage://Contact",
-              "backgroundcolor": "#1A206AFF"
+              "action": "navpage://Contact"
             }
           ]
         }
