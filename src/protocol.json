@@ -17,6 +17,13 @@
           "type": "goals"
         },
         {
+          "type": "button",
+          "action": {
+            "text": "Surveys",
+            "action": "navmodal://Survey"
+          }
+        },
+        {
           "type": "reports",
           "title": "Your tasks",
           "backgroundcolor": "#1A206AFF",
