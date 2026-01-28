@@ -37,7 +37,7 @@
             },
             {
               "title": "Set your support system",
-              "action": "flow://flows/adherance/support",
+              "action": "flow://flows/support",
               "report": true
             }
           ]
