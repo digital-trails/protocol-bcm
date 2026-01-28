@@ -16,15 +16,6 @@
         {
             "type": "Text",
             "Text": "This information will be added to the Support Map in the menu section of the app.  That way, it will be easy for you to come up with people who can help you."
-        },
-        {
-            "type": "Text",
-            "Text": "Are you ready to enter the information?"
-        },
-        {
-            "type": "Buttons",
-            "buttons": ["flow://flows/persons::Yes","No"],
-            "column_count": 2
         }
     ]
 }

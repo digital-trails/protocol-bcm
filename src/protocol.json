@@ -25,19 +25,40 @@
         },
         {
           "type": "reports",
-          "title": "Your tasks",
+          "title": "Your routine",
           "backgroundcolor": "#1A206AFF",
           "text": "View Routine",
-          "single": true,
           "reports": [
             {
-              "title": "Set your routine",
+              "title": "Set your daily routine",
               "action": "flow://flows/adherance/routine",
+              "report": true
+            }
+          ]
+        },
+         {
+          "type": "reports",
+          "title": "Your social support",
+          "backgroundcolor": "#1A206AFF",
+          "text": "View Routine",
+          "reports": [
+            {
+              "title": "Learn how to set your social support",
+              "action": "flow://flows/adherance/routine"
+            },
+            {
+              "title": "Person 1",
+              "action": "flow://flows/persons/person1",
               "report": true
             },
             {
-              "title": "Set your support system",
-              "action": "flow://flows/support",
+              "title": "Person 2",
+              "action": "flow://flows/persons/person2",
+              "report": true
+            },
+            {
+              "title": "Person 3",
+              "action": "flow://flows/persons/person3",
               "report": true
             }
           ]
