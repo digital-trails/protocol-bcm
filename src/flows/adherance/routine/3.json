@@ -13,7 +13,6 @@
             "type": "entrylist",
             "placeholder": "Enter Item",
             "count": 10,
-            "Border": true,
             "variable_name": "routine_items",
             "report": "List of things that you do at the same time every day."
         },
@@ -29,6 +28,7 @@
             "type": "entry",
             "placeholder": "Item",
             "variable_name": "routine_item",
+             "Border": false,
             "report": "One thing that you do every day where it would be easy to also take your medicine."
         },
         {
