@@ -8,7 +8,7 @@
         {
             "type": "entry",
             "placeholder": "Enter Name",
-            "variable_name": "anothersupport",
+            "variable_name": "global:anothersupport",
             "report": "Name"
         },
         {
@@ -19,27 +19,27 @@
                 "Friend",
                 "Colleague"
             ],
-            "variable_name": "anothersupportrelationship",
+            "variable_name": "global:anothersupportrelationship",
             "report": "Relationship"
         },
         {
             "type": "entry",
             "placeholder": "Enter Phone",
             "keyboard": "Telephone",
-            "variable_name": "anothersupportphone",
+            "variable_name": "global:anothersupportphone",
             "report": "Phone"
         },
         {
             "type": "entry",
             "placeholder": "Enter Email",
             "keyboard": "Email",
-            "variable_name": "anothersupportemail",
+            "variable_name": "global:anothersupportemail",
             "report": "Email"
         },
         {
             "type": "entry",
             "placeholder": "How could they help?",
-            "variable_name": "anothersupporthelp",
+            "variable_name": "global:anothersupporthelp",
             "report": "How could they help?"
         }
     ],

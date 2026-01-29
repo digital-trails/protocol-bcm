@@ -17,7 +17,7 @@
             ],
             "selectable": true,
             "multiselect": true,
-            "variable_name": "anothersupportdifficulty",
+            "variable_name": "global:anothersupportdifficulty",
             "report": "How could this person help?"
         }
     ],

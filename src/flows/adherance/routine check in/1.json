@@ -14,7 +14,7 @@
             "buttons": ["Yes", "No"],
             "column_count": 2,
             "selectable": true,
-            "variable_name": "routine_notification_selection_1"
+            "variable_name": "global:routine_notification_selection_1"
         }
     ]
 }

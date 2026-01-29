@@ -14,7 +14,7 @@
             "buttons": ["Yes","No"],
             "column_count": 2,
             "selectable": true,
-            "variable_name": "RelaxationSelection1"
+            "variable_name": "global:RelaxationSelection1"
         }
     ]
 }

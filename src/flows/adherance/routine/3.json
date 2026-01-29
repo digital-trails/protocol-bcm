@@ -13,7 +13,7 @@
             "type": "entrylist",
             "placeholder": "Enter Item",
             "count": 10,
-            "variable_name": "routine_items",
+            "variable_name": "global:routine_items",
             "report": "List of things that you do at the same time every day."
         },
         {
@@ -27,7 +27,7 @@
         {
             "type": "entry",
             "placeholder": "Item",
-            "variable_name": "routine_item",
+            "variable_name": "global:routine_item",
             "Border": false,
             "report": "One thing that you do every day where it would be easy to also take your medicine."
         },
@@ -41,7 +41,7 @@
         },
         {
             "type": "time",
-            "variable_name": "routine_time",
+            "variable_name": "global:routine_time",
             "report": "What time do you plan to take your medicine each day?"
         }
     ]

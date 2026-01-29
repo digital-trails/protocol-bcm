@@ -18,7 +18,7 @@
             "buttons": ["Yes", "No"],
             "column_count": 2,
             "selectable": true,
-            "variable_name": "JoinSelection2"
+            "variable_name": "global:JoinSelection2"
         }
     ],
      "condition": [

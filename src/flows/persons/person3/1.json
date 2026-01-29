@@ -8,7 +8,7 @@
         {
             "type": "entry",
             "placeholder": "Ex. John Doe",
-            "variable_name": "person3name",
+            "variable_name": "global:person3name",
             "report": "Name",
             "Border": false
         },
@@ -24,7 +24,7 @@
                 "Friend",
                 "Colleague"
             ],
-            "variable_name": "person3relationship",
+            "variable_name": "global:person3relationship",
             "report": "Relationship"
         },
         {
@@ -35,7 +35,7 @@
             "type": "entry",
             "placeholder": "Ex 3334567890",
             "keyboard": "Telephone",
-            "variable_name": "person3phone",
+            "variable_name": "global:person3phone",
             "report": "Phone",
             "Border": false
         },
@@ -47,7 +47,7 @@
             "type": "entry",
             "placeholder": "Ex. johndoe@mail.com",
             "keyboard": "Email",
-            "variable_name": "person3email",
+            "variable_name": "global:person3email",
             "report": "Email",
             "Border": false
         },
@@ -58,7 +58,7 @@
         {
             "type": "entry",
             "placeholder": "Explain here",
-            "variable_name": "person3help",
+            "variable_name": "global:person3help",
             "report": "How could they help?",
             "height": 200,
             "Border": false

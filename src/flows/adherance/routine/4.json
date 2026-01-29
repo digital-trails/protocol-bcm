@@ -13,7 +13,7 @@
                 "2::Confident",
                 "3::Very confident"
             ],
-            "variable_name": "routine_confidence_level",
+            "variable_name": "global:routine_confidence_level",
             "report": "How confident you are in taking your tamoxifen or Aromatase inhibitor medicine at the same time each day?"
         }
     ]

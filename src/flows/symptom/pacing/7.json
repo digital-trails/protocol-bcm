@@ -14,7 +14,7 @@
             "buttons": ["Yes", "No"],
             "column_count": 2,
             "selectable": true,
-            "variable_name": "PacingSelection1"
+            "variable_name": "global:PacingSelection1"
         }
     ]
 }
