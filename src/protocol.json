@@ -53,17 +53,17 @@
               "action": "flow://flows/support"
             },
             {
-              "title": "Person 1",
+              "title": "${global:person1name,Person 1}",
               "action": "flow://flows/persons/person1",
               "report": true
             },
             {
-              "title": "Person 2",
+              "title": "${global:person2name,Person 2}",
               "action": "flow://flows/persons/person2",
               "report": true
             },
             {
-              "title": "Person 3",
+              "title": "${global:person3name,Person 3}",
               "action": "flow://flows/persons/person3",
               "report": true
             }
