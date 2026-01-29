@@ -28,7 +28,7 @@
             "type": "entry",
             "placeholder": "Item",
             "variable_name": "routine_item",
-             "Border": false,
+            "Border": false,
             "report": "One thing that you do every day where it would be easy to also take your medicine."
         },
         {

@@ -3,17 +3,22 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Please enter their contact information"
+            "text": "Name"
         },
         {
             "type": "entry",
-            "placeholder": "Enter Name",
-            "variable_name": "person1",
-            "report": "Name"
+            "placeholder": "Ex. John Doe",
+            "variable_name": "person1name",
+            "report": "Name",
+            "Border": false
+        },
+        {
+            "type": "Text",
+            "text": "Relationship"
         },
         {
             "type": "Picker",
-            "title": "Select Relationship",
+            "title": "Select",
             "items": [
                 "Family",
                 "Friend",
@@ -23,24 +28,39 @@
             "report": "Relationship"
         },
         {
+            "type": "Text",
+            "text": "Phone"
+        },
+        {
             "type": "entry",
-            "placeholder": "Enter Phone",
+            "placeholder": "Ex 1234567890",
             "keyboard": "Telephone",
             "variable_name": "person1phone",
-            "report": "Phone"
+            "report": "Phone",
+            "Border": false
+        },
+        {
+            "type": "Text",
+            "text": "Email"
         },
         {
             "type": "entry",
-            "placeholder": "Enter Email",
-             "keyboard": "Email",
+            "placeholder": "Ex. johndoe@mail.com",
+            "keyboard": "Email",
             "variable_name": "person1email",
-            "report": "Email"
+            "report": "Email",
+            "Border": false
+        },
+        {
+            "type": "Text",
+            "text": "How could they help?"
         },
         {
             "type": "entry",
-            "placeholder": "How could they help?",
+            "placeholder": "Explain here",
             "variable_name": "person1help",
-            "report": "How could they help?"
+            "report": "How could they help?",
+            "Border": false
         }
     ],
     "navigation_conditions": [
