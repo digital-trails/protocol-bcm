@@ -17,7 +17,7 @@
           "type": "goals"
         },
         {
-          "type": "button",
+          "type": "survey",
           "action": {
             "text": "Surveys",
             "action": "navmodal://Survey"
