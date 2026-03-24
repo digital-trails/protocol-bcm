@@ -107,7 +107,6 @@
     "routine": {
       "type": "sequential",
       "trigger_flow_path": "flow://flows/adherance/routine",
-      "locked_text": "Opens {0} after you set your routine",
       "path": "flow://flows/adherance/routine check in",
       "period": "00:02:00"
     }
