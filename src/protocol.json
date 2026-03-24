@@ -94,7 +94,7 @@
               "action": "flow://flows/symptom"
             },
             {
-              "text": "Your Healthcare Team",
+              "text": "Your Healthcare Team", 
               "backgroundcolor": "#1A206AFF",
               "action": "navpage://Contact"
             }
@@ -103,20 +103,13 @@
       ]
     }
   },
-  "triggers": [
+  "surveys": [
     {
-      "type": "history",
-      "id": "trigger_1",
-      "flowid": "flow://flows/adherance/routine",
-      "lockedtext": "Opens {0} after you set your routine",
-      "period": "00:02:00",
-      "action": {
-        "type": "notification",
-        "path": "flow://flows/adherance/routine check in",
-        "title": "Routine Check In!",
-        "message": "How's your routine going?",
-        "survey": true
-      }
+      "type": "sequential",
+      "trigger_flow_path": "flow://flows/adherance/routine",
+      "locked_text": "Opens {0} after you set your routine",
+      "path": "flow://flows/adherance/routine check in",
+      "period": "00:02:00"
     }
   ],
   "devices": [
