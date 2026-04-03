@@ -6,7 +6,7 @@
       "elements": [
         {
           "type": "alert",
-          "title": "MyMedSupport",
+          "title": "MyMedSupport!",
           "message": "Your personalized partner",
           "icon": {
             "url": "/assets/diagnosis.png",
